@@ -25,9 +25,6 @@ Essa frustração se transformou em motivação para me desafiar a criar uma cal
 ## 📂 Como executar o projeto
 Acesse https://wurdigtato.github.io/calculadora_iphone_JS/
 
-## 📜 Licença
-Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ---
 💡 *Feito por [Tácio Würdig](https://github.com/wurdigtato)*
 
