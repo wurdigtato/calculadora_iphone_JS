@@ -8,7 +8,7 @@ Após concluir um curso de JavaScript, me deparei com um projeto final de uma ca
 Essa frustração se transformou em motivação para me desafiar a criar uma calculadora completamente funcional e esteticamente semelhante à calculadora do iPhone, proporcionando uma experiência mais fluida e realista para o usuário.
 
 ## 🖥️ Demonstração
-![Calculadora em ação](https://i.ibb.co/QvBp4Hxs/Gravando-2025-02-19-195832.gif)
+![Preview da Calculadora](https://i.ibb.co/FqnZZK49/preview-calculadora.png)
 
 ## 🚀 Funcionalidades
 ✅ Interface moderna e responsiva<br>
